@@ -4,6 +4,16 @@
 
 ## 📌 Project Overview
 
+## 📊 Dashboard Preview
+
+### Power BI Executive Dashboard
+
+![Power BI Dashboard](powerbi_dashboard.png)
+
+### Microsoft Excel Dashboard
+
+![Excel Dashboard](excel_dashboard.png)
+
 This project presents an end-to-end business intelligence analysis of the Brazilian Olist e-commerce dataset.
 
 The objective is to transform raw transactional data into actionable business insights by analyzing sales performance, customer purchasing behaviour, delivery efficiency, payment preferences, and customer satisfaction.
