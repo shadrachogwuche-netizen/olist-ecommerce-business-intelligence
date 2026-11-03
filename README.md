@@ -8,11 +8,11 @@
 
 ### Power BI Executive Dashboard
 
-![Power BI Dashboard](powerbi_dashboard.png)
+![Power BI Dashboard](powerbi_dashboard.PNG)
 
 ### Microsoft Excel Dashboard
 
-![Excel Dashboard](excel_dashboard.png)
+![Excel Dashboard](excel_dashboard.PNG)
 
 This project presents an end-to-end business intelligence analysis of the Brazilian Olist e-commerce dataset.
 
